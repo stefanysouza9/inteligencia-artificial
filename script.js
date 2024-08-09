@@ -24,26 +24,26 @@ const perguntas = [
     enunciado: "Apos a elaboração do trabalho, a professora realizou um debate entre a turma para entender";
     alternativas: [
         "Defende a ideia de que a IA pode criar novas oportunidades de emprego ",
-        "Alternativa 2"
+        "Me preocupo com as pessoas que perderam o seus empregos para maquinas e defendem a importancia "
     ]
   },
   {
-    enunciado: "Pergunta 2";
+    enunciado: "Voce tem um trabalho em grupo de biologia para entregar na semana seguinte, o andamento";
     alternativas: [
-        "Alternativa 1",
-        "Alternativa 2"
+        "Criar uma imagem utilizando uma plataforma de design como Paint",
+        "Criar uma imagem utilizando um gerador de imagem IA."
     ] 
   }    
   {
-    enunciado: "Pergunta 2";
+    enunciado: "Voce tem um trabalho em grupo de biologia para entregar na semana seguinte, o andamento";
     alternativas: [
-        "Alternativa 1",
-        "Alternativa 2"
-    ] 
+        "Criar uma imagem utilizando uma plataforma de design como Paint",
+        "Criar uma imagem utilizando um gerador de imagem IA."
   } {
-    enunciado: "Pergunta 2";
+    enunciado: "Voce tem um trabalho em grupo de biologia para entregar na semana seguinte, o andamento";
     alternativas: [
-        "Alternativa 1",
-        "Alternativa 2"
+        "Escrever comando para o chat é uma forma de contribuir com o trabalho, por isso não é um problema",
+        "O chat pode ser uma tecnologia muito avançada, mas é preciso manter a atenção pois toda maquína erra"
     ] 
-  } 
+  },
+]; 
